@@ -1,0 +1,19 @@
+# GET http://localhost:5000/api/v1/stores
+
+
+# POST http://localhost:5000/api/v1/stores
+# content-type: application/json
+
+# {    
+#     "storeId": "0001",
+#     "address": "10 main st haverhill ma"
+# }
+
+
+# POST http://localhost:5000/api/v1/stores
+# content-type: application/json
+
+# {    
+#     "storeId": "0002",
+#     "address": "11 main st haverhill ma"
+# }
